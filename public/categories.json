@@ -1,0 +1,134 @@
+[
+  {
+      "id": "1",
+      "image": "https://i.ibb.co/ySh0JvP/Rectangle-4284.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "description": "Help provide clean and safe drinking water to communities in need. Your support will ensure that children have access to the essential resource they need to thrive and lead healthier lives. Access to clean water can prevent waterborne diseases, improve hygiene, and create a brighter future for these children.",
+      "price": 290,
+      "card_bg_color": "#D9E5FF",
+      "category_bg_color": "#AEC8FF",
+      "text_color": "#0052FF"
+  },
+  {
+      "id": "2",
+      "image": "https://i.ibb.co/37X0D1Z/2.png",
+      "title": "Good education",
+      "category": "Education",
+      "description": "Support underprivileged children in accessing quality education and a brighter future. Your contribution will empower these children with knowledge and opportunities for success. Quality education can break the cycle of poverty and provide them with the skills they need to build a better life.",
+      "price": 290,
+      "card_bg_color": "#FFE3E4",
+      "category_bg_color": "#FFC3C5",
+      "text_color": "#FF444A"
+  },
+  {
+      "id": "3",
+      "image": "https://i.ibb.co/0XsYBRf/3.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "description": "Join us in the fight against hunger and provide meals to those in need. Your donation of used clothing will make a difference in the lives of individuals struggling to stay warm and nourished. Your generosity can provide comfort and relief to those facing difficult circumstances.",
+      "price": 290,
+      "card_bg_color": "#EBF6E2",
+      "category_bg_color": "#D4ECC1",
+      "text_color": "#79C23F"
+  },
+  {
+      "id": "4",
+      "image": "https://i.ibb.co/kG6sw0R/4.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "description": "Contribute to medical supplies and healthcare access for the less fortunate. Your support will help provide essential medical care and improve the overall well-being of vulnerable communities. Access to healthcare is a fundamental human right, and your donation can save lives.",
+      "price": 290,
+      "card_bg_color": "#FEEAE3",
+      "category_bg_color": "#FDD2C4",
+      "text_color": "#F87147"
+  },
+  {
+      "id": "5",
+      "image": "https://i.ibb.co/kG6sw0R/4.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "description": "Help protect endangered species and preserve our planet's biodiversity. Your donation will support conservation efforts and ensure a sustainable future for our planet. Biodiversity is crucial for a balanced ecosystem, and your contribution can help safeguard our natural heritage.",
+      "price": 290,
+      "card_bg_color": "#FEEAE3",
+      "category_bg_color": "#FDD2C4",
+      "text_color": "#F87147"
+  },
+  {
+      "id": "6",
+      "image": "https://i.ibb.co/0XsYBRf/3.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "description": "Provide shelter and support to individuals experiencing homelessness. Your contribution will help create safe and stable living environments for those in need. Homelessness is a pressing issue, and your help can make a significant difference in the lives of vulnerable individuals.",
+      "price": 290,
+      "card_bg_color": "#EBF6E2",
+      "category_bg_color": "#D4ECC1",
+      "text_color": "#79C23F"
+  },
+  {
+      "id": "7",
+      "image": "https://i.ibb.co/37X0D1Z/2.png",
+      "title": "Good education",
+      "category": "Education",
+      "description": "Support disaster-stricken communities in their time of need. Your donation will assist in rebuilding schools and providing education resources to affected areas. Education is a crucial component of recovery and rebuilding after disasters.",
+      "price": 290,
+      "card_bg_color": "#FFE3E4",
+      "category_bg_color": "#FFC3C5",
+      "text_color": "#FF444A"
+  },
+  {
+      "id": "8",
+      "image": "https://i.ibb.co/ySh0JvP/Rectangle-4284.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "description": "Help preserve and promote art and culture in our society. Your support will enable artistic expression and cultural enrichment for all. Art and culture play a vital role in preserving our heritage and fostering creativity.",
+      "price": 290,
+      "card_bg_color": "#D9E5FF",
+      "category_bg_color": "#AEC8FF",
+      "text_color": "#0052FF"
+  },
+  {
+      "id": "9",
+      "image": "https://i.ibb.co/ySh0JvP/Rectangle-4284.png",
+      "title": "Clean water for children",
+      "category": "Health",
+      "description": "Assist veterans in their transition to civilian life and provide them with resources. Your contribution will help veterans reintegrate into society with the support they deserve. Veterans have sacrificed for our nation, and your help can make their transition smoother.",
+      "price": 290,
+      "card_bg_color": "#D9E5FF",
+      "category_bg_color": "#AEC8FF",
+      "text_color": "#0052FF"
+  },
+  {
+      "id": "10",
+      "image": "https://i.ibb.co/37X0D1Z/2.png",
+      "title": "Good education",
+      "category": "Education",
+      "description": "Empower young people with education and skills for a better future. Your donation will enable educational programs that equip the youth with valuable knowledge and opportunities. Investing in youth education is an investment in a brighter tomorrow.",
+      "price": 290,
+      "card_bg_color": "#FFE3E4",
+      "category_bg_color": "#FFC3C5",
+      "text_color": "#FF444A"
+  },
+  {
+      "id": "11",
+      "image": "https://i.ibb.co/0XsYBRf/3.png",
+      "title": "Used Clothing Drive",
+      "category": "Clothing",
+      "description": "Provide care and companionship to elderly individuals in need. Your support will make a significant difference in the lives of seniors, offering them comfort and companionship in their later years.",
+      "price": 290,
+      "card_bg_color": "#EBF6E2",
+      "category_bg_color": "#D4ECC1",
+      "text_color": "#79C23F"
+  },
+  {
+      "id": "12",
+      "image": "https://i.ibb.co/kG6sw0R/4.png",
+      "title": "Better Food for Everyone",
+      "category": "Food",
+      "description": "Participate in cleanup efforts to protect our natural environment. Your contribution will help maintain the beauty of our planet and ensure a healthier ecosystem for all. Preserving our environment is crucial for a sustainable future.",
+      "price": 290,
+      "card_bg_color": "#FEEAE3",
+      "category_bg_color": "#FDD2C4",
+      "text_color": "#F87147"
+  }
+]
