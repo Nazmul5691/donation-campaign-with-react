@@ -1,8 +1,19 @@
-# React + Vite
+# some project features for this donation campaign projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Donation Projects
 
-Currently, two official plugins are available:
+## 1. Clean Water for Children 
+Category: Health
+Description: Provide clean water to communities, improving children's health.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 2. Good Education 
+Category: Education
+Description: Support underprivileged children's education for a brighter future.
+
+## 3. Used Clothing Drive 
+Category: Clothing
+Description: Donate clothing to help those in need.
+
+## 4. Better Food for Everyone 
+Category: Food
+Description: Improve healthcare access and well-being.
