@@ -1,9 +1,11 @@
+import Chart from "../../components/Chart/Chart";
 
 
 const Statistics = () => {
     return (
         <div>
-            Statistics
+            <Chart></Chart>
+            
         </div>
     );
 };
