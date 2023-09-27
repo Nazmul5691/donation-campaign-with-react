@@ -11,8 +11,6 @@ const Chart = () => {
 
     const totalDonates = categoris;
     const myDonates = JSON.parse(localStorage.getItem("donates"))
-    // console.log(myDonates);
-    // console.log(totalDonates);
     
 
 
@@ -75,8 +73,7 @@ const Chart = () => {
         </ResponsiveContainer>
         </div>
     );
-    
-    
+      
 };
 
 
